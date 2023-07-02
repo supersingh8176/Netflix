@@ -289,7 +289,9 @@ input[type="radio"]{
     font-size: 12px;
     padding: 10px 15px;
   }
-
+  .email-signup{
+    margin: 0 20px;
+  }
   .text-col, .img-col{
     flex-basis: 100%;
   }
