@@ -279,6 +279,7 @@ input[type="radio"]{
   }
   .header-content h1{
     font-size: 20px;
+    line-height: 0;
   }
   .header-content h3{
     font-size: 15px;
