@@ -269,6 +269,9 @@ input[type="radio"]{
   nav .language-btn{
     padding: 4px 8px;
   }
+  .header{
+    padding:8px 15px;
+  }
   .header-content{
     position: unset;
     transform: none;
