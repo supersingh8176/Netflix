@@ -209,7 +209,6 @@ input[type="radio"]{
 .faq .email-signup{
   max-width: 600px;
   margin: 20px auto 60px;
-
 }
 .faq small{
   font-size: 13px;
@@ -287,10 +286,10 @@ input[type="radio"]{
   }
   .email-signup button{
     font-size: 10px;
-    padding: 10px 20px;
+    padding: 10px 15px;
   }
   .email-signup{
-    margin: 0 20px;
+    margin: 0 15px;
   }
   .text-col, .img-col{
     flex-basis: 100%;
@@ -306,6 +305,9 @@ input[type="radio"]{
   }
   .features .row{
     padding: 10px 0;
+  }
+  .faq .email-signup{
+    margin: 0 15px;
   }
   .faq h2{
     font-size: 20px;
