@@ -279,11 +279,11 @@ input[type="radio"]{
   }
   .header-content h1{
     font-size: 20px;
-    line-height: 0;
+    line-height: 10px;
   }
   .header-content h3{
     font-size: 15px;
-    margin-bottom: 0;
+    margin-bottom: 10px;
   }
   .email-signup button{
     font-size: 12px;
