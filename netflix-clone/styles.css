@@ -283,6 +283,7 @@ input[type="radio"]{
   }
   .header-content h3{
     font-size: 15px;
+    margin-bottom: 0;
   }
   .email-signup button{
     font-size: 12px;
